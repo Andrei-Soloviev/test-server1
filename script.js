@@ -1,0 +1,1 @@
+console.log('server is work STURG872');
