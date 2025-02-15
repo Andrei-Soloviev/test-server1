@@ -1,1 +1,1 @@
-console.log('server is work STURG872');
+console.log('server is work a');
